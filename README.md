@@ -39,6 +39,6 @@ Enter the IP address of the ESP8266 matching your subnet.
 Build with platformio and transfer to ESP8266.
 
 # Artisan settings
-Make sure the artisan settings match the pictures in this repo (/artisan)
+Make sure the artisan settings match the pictures in this repo [/artisan](https://github.com/LeFish1/ESP8266_CoffeeRoaster/tree/master/artisan)
 
 # Have fun roasting!
