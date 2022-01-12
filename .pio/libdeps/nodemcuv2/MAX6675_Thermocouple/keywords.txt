@@ -1,0 +1,21 @@
+######################################
+#        Syntax Coloring Map         #
+#      For MAX6675_Thermocouple      #
+######################################
+
+######################################
+#       Data types (KEYWORD1)        #
+######################################
+
+Thermocouple	KEYWORD1
+MAX6675_Thermocouple	KEYWORD1
+AverageThermocouple	KEYWORD1
+SmoothThermocouple	KEYWORD1
+
+######################################
+#  Methods and Functions (KEYWORD2)  #
+######################################
+
+readCelsius	KEYWORD2
+readKelvin	KEYWORD2
+readFahrenheit	KEYWORD2
