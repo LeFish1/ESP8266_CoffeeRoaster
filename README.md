@@ -12,7 +12,7 @@ A basic circuit could be the following:
 
                                                        SSR
                                                      +------+
-                                                 +5V-++   V~+-230V~L
+                                                 3V3-++   V~+-230V~L
                                                      |      |
                                                      |      |
                                             +--------+-   V~+---+
@@ -31,7 +31,7 @@ A basic circuit could be the following:
                                v                           v
 ```
 
-(https://asciiflow.com/#/share/eJzFU8FqwkAQ%2FZVlrjFgE7JpcytaGjBa6cLSw16C5BBMU5AUFLFfUfyY0q%2Fpl3TbqN2JExPTg2EPs9nZ9968mV1DHj8nEOSvWdaDLF4lCwhgrWCpILjx3Z6ClY4c39dRkSwLvVHAun1CPCqVd7r69f5Jri54lifLy5YB7bh9%2BRb9Q94huABGnTvlsqmc8xmayCrKw9SO0nzOwmhkT8d9hHYnptcO5xiXYAuTuEgWptTTlVbRGlJPkTcSaVW%2FM8MiZjJb8mU3XJ4sf%2BynTab5Ab%2BWmSzFmNCKF2SM9sMrhDe%2BfeLc98hUdjR6NQyWK90SUgfosG1v2rs7Qe7ae3dxvX%2FVeiSaGIwYk7PZrjNa9XkzVcOG6q6xEDm9%2FSBFc5J1IBoBEXhXVQiiXPeT4Y8unzbzQZ%2FpDLNXLbS1GI3mLrSg2lIvyzhVsIHNN7kEhAw%3D)
+(https://asciiflow.com/#/share/eJzFU8FKw0AQ%2FZVlrmmgJiTR3KQVA01rMbB42EsoewimEUqEllK%2FQvox4tf4Ja5ujTtx0qTx0LCH2d3Z9968mWyhSJcSwuI5zweQpxu5ghC2AtYCwqvAHQjYqMgJAhWVcl2qjQDW70uSeyGKXk8%2FXt%2FJ1QfP5a5%2BbBnQjjvkL%2FE%2F5FXBGTCa3NHLpnJOZ2gjqymPMjvOikcWxRN7Ph0itJtkfun4PsYl2CKZlnJlSj1eaR2tJfUYeSuRUvU9MyxmJrPFnw7D5XF94HF9wLOiwm9kJksxJrTmBRmj%2FfgC4U2vH3w%2F8MhU9mf0Ghis6g9SAbrs2pvu7s6Qu%2FaPu7je32o9Ei0ZTRjji8WhM0r1aTPVwIbqbrAQOb1%2FI0X7JOsoaQVE4H1VIQi9bmfjL10BbeadulMZZq86aOswGu1d6EC1p%2F4s41bADnaf3TuEEg%3D%3D)
 
 # Build and Test
 Enter your WiFi credentials in sketch.
